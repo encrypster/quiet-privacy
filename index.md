@@ -1,6 +1,8 @@
 # Quiet: privacy policy
 
-Last updated: 18 November 2026
+English · [Oʻzbekcha](https://encrypster.github.io/quiet-privacy/uz/) · [Русский](https://encrypster.github.io/quiet-privacy/ru/)
+
+Last updated: 19 November 2026
 
 Quiet is a home screen app for Android with tools for using the phone less: app limits and
 blocks, a notification filter, screen-time statistics, focus sessions and grayscale.
@@ -24,11 +26,11 @@ long as a bot is connected.
   and for no longer than the number of days set in Quiet.
 - Whether Quiet Pro is active (Google Play build only).
 - If you set a parent lock: a salted digest of its PIN, never the PIN itself.
-
 - If a parent connected a Telegram bot: its token and chat, and the closings not yet sent.
 
-None of this leaves the phone, except the notes to a parent's bot described below. A backup file is written only when you ask for one, to the place
-you choose, and contains settings only: no usage history and no notifications.
+None of this leaves the phone, except the notes to a parent's bot described below. A backup file
+is written only when you ask for one, to the place you choose, and contains settings only: no
+usage history and no notifications.
 
 ## What each access is used for
 
