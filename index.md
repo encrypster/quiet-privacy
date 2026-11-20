@@ -1,8 +1,8 @@
 # Quiet: privacy policy
 
-English · [Oʻzbekcha](https://encrypster.github.io/quiet-privacy/uz/) · [Русский](https://encrypster.github.io/quiet-privacy/ru/)
+English · [Oʻzbekcha](https://encrypster.github.io/quiet-privacy/uz/) · [Русский](https://encrypster.github.io/quiet-privacy/ru/) · [Deutsch](https://encrypster.github.io/quiet-privacy/de/)
 
-Last updated: 19 November 2026
+Last updated: 20 November 2026
 
 Quiet is a home screen app for Android with tools for using the phone less: app limits and
 blocks, a notification filter, screen-time statistics, focus sessions and grayscale.
@@ -86,6 +86,40 @@ not receive your name, e-mail address or payment details, and it has no server.
 Quiet is not directed at children. A parent may set it up on a child's phone with the parent
 lock; the child then sees the same disclosures and, if a bot is connected, the notification
 saying that the parent is told. Quiet collects no data for itself from anyone.
+
+## If you live in the EU, the EEA or the UK
+
+The General Data Protection Regulation (GDPR) and the UK GDPR give you rights over personal data.
+This is how they apply to Quiet.
+
+**Who is responsible.** Quiet is made by Test Developer, Test Street 1, 00000 Test City, test@example.com.
+
+**What the developer receives.** Nothing. Quiet has no server, no account, no analytics and no
+advertising, so the developer never receives or holds personal data about you or your child.
+What Quiet keeps (listed above) stays on your phone and under your control: you can delete all of
+it with "Delete everything" in Quiet, or by uninstalling the app.
+
+**Why Quiet works with this data on your phone.** To do what you switched on (Art. 6(1)(b) GDPR).
+Closing adult content, the picture check and telling the parent are switched on by a parent under
+the parent lock, to protect a child (Art. 6(1)(f), the legitimate interest in protecting a minor).
+Screen pictures are judged on the phone and thrown away at once.
+
+**Telling the parent.** If a parent connects their own Telegram bot, the time, the app's name and
+the reason of each closing go from the phone to Telegram, which may handle them outside the EEA
+under its own privacy policy. The parent chooses this and can stop it at any time by disconnecting
+the bot; the child's phone shows a notification for as long as a bot is connected.
+
+**Purchases.** Google Play handles purchases as a separate controller, under Google's privacy
+policy.
+
+**Your rights.** You may ask for access to your personal data, its correction or erasure, to
+restrict or object to its processing, and for data portability. As the developer holds no data,
+you exercise most of these on the phone itself, as described above; questions go to the contact
+address below. You may also complain to the data protection authority of your country.
+
+**Children.** In the EU a child can agree to online services alone from an age between 13 and 16,
+depending on the country; below that age a parent decides. Quiet's parental features are meant
+to be set up by a parent on a child's phone.
 
 ## Changes
 

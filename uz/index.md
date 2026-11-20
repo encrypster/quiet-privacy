@@ -5,9 +5,9 @@ title: "Quiet: maxfiylik siyosati"
 
 # Quiet: maxfiylik siyosati
 
-[English](https://encrypster.github.io/quiet-privacy/) · Oʻzbekcha · [Русский](https://encrypster.github.io/quiet-privacy/ru/)
+[English](https://encrypster.github.io/quiet-privacy/) · Oʻzbekcha · [Русский](https://encrypster.github.io/quiet-privacy/ru/) · [Deutsch](https://encrypster.github.io/quiet-privacy/de/)
 
-Oxirgi yangilanish: 2026-yil 19-noyabr
+Oxirgi yangilanish: 2026-yil 20-noyabr
 
 Quiet — Android uchun uy ekrani ilovasi. Unda telefondan kamroq foydalanishga yordam beradigan
 vositalar bor: ilova limitlari va bloklari, bildirishnomalar filtri, ekran vaqti statistikasi,
@@ -97,6 +97,47 @@ email manzilingiz yoki toʻlov maʼlumotlaringizni olmaydi, uning serveri ham yo
 Quiet bolalarga moʻljallanmagan. Ota-ona uni bolaning telefoniga ota-ona qulfi bilan oʻrnatishi
 mumkin; bunda bola ham xuddi shu tushuntirishlarni va, bot ulangan boʻlsa, ota-onaga xabar
 berilayotgani haqidagi bildirishnomani koʻradi. Quiet hech kimdan oʻzi uchun maʼlumot yigʻmaydi.
+
+## Agar siz Yevropa Ittifoqi, Yevropa iqtisodiy hududi yoki Buyuk Britaniyada yashasangiz
+
+Umumiy maʼlumotlarni himoya qilish reglamenti (GDPR) va UK GDPR sizga shaxsiy maʼlumotlaringiz
+ustidan huquqlar beradi. Ular Quietga quyidagicha qoʻllanadi.
+
+**Kim javobgar.** Quiet dasturchisi: Test Developer, Test Street 1, 00000 Test City, test@example.com.
+
+**Dasturchi nimani oladi.** Hech narsani. Quietning serveri, akkaunti, analitikasi va reklamasi
+yoʻq, shuning uchun dasturchi siz yoki farzandingiz haqidagi shaxsiy maʼlumotlarni hech qachon
+olmaydi va saqlamaydi. Quiet saqlaydigan narsalar (yuqorida sanab oʻtilgan) telefoningizda va
+sizning nazoratingizda qoladi: ularning hammasini Quietdagi "Hammasini oʻchirish" tugmasi bilan
+yoki ilovani oʻchirib tashlash orqali oʻchirishingiz mumkin.
+
+**Nima uchun Quiet telefoningizda bu maʼlumotlar bilan ishlaydi.** Siz yoqqan funksiyalarni
+bajarish uchun (GDPR 6(1)(b)-modda). Kattalar uchun kontentni yopish, rasm tekshiruvi va
+ota-onaga xabar berish bolani himoya qilish maqsadida ota-ona tomonidan ota-ona qulfi ostida
+yoqiladi (6(1)(f)-modda, voyaga yetmaganni himoya qilishdagi qonuniy manfaat). Ekran rasmlari
+telefonning oʻzida baholanadi va darhol oʻchiriladi.
+
+**Ota-onaga xabar berish.** Agar ota-ona oʻzining Telegram botini ulasa, har bir yopishning
+vaqti, ilova nomi va sababi telefondan Telegramga boradi; Telegram ularga oʻz maxfiylik
+siyosati asosida Yevropa iqtisodiy hududidan tashqarida ham ishlov berishi mumkin. Buni ota-ona
+tanlaydi va botni uzib, istalgan vaqtda toʻxtata oladi; bot ulangan ekan, bolaning telefonida
+bildirishnoma koʻrinib turadi.
+
+**Xaridlar.** Xaridlarni Google Play alohida maʼlumotlar nazoratchisi (controller) sifatida,
+Google maxfiylik siyosati asosida amalga oshiradi.
+
+**Huquqlaringiz.** Siz shaxsiy maʼlumotlaringiz bilan tanishishni, ularni tuzatish yoki
+oʻchirishni, ularga ishlov berishni cheklashni hamda maʼlumotlarni koʻchirib berishni (data
+portability) soʻrashingiz, shuningdek ularga ishlov berilishiga eʼtiroz bildirishingiz mumkin.
+Dasturchida hech qanday maʼlumot yoʻqligi sababli bu huquqlarning aksariyatini yuqorida
+tasvirlanganidek telefonning oʻzida amalga oshirasiz; savollarni quyidagi aloqa manziliga
+yuboring. Shuningdek, oʻz mamlakatingizdagi maʼlumotlarni himoya qilish organiga shikoyat
+qilishingiz mumkin.
+
+**Bolalar.** Yevropa Ittifoqida bola onlayn xizmatlarga mamlakatga qarab 13 yoshdan 16 yoshgacha
+boʻlgan maʼlum yoshdan boshlab oʻzi rozilik bera oladi; bundan kichik boʻlsa, ota-ona qaror
+qiladi. Quietning ota-ona funksiyalari ota-ona tomonidan bolaning telefonida sozlanishi uchun
+moʻljallangan.
 
 ## Oʻzgarishlar
 
